@@ -14,6 +14,17 @@ Topic areas covered include:
 - Graph Theory
 - Introduction to Proofs
 
+## Templates for a given topic
+
+- Ask questions to spark curiosity and engagement.
+- Provide clear definitions and explanations of key concepts.
+- Add illustrative examples to demonstrate concepts.
+- Intoduce the mathematical notation used.
+- Include practice problems with varying levels of difficulty.
+- Provide detailed solutions and explanations for practice problems.
+- Give exercises for further practice.
+- Suggest additional resources for deeper exploration.
+
 ## References
 
 - [http://www.geometer.org/mathcircles/](http://www.geometer.org/mathcircles/)
