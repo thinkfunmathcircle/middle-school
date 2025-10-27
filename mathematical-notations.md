@@ -11,6 +11,14 @@ This document provides a comprehensive overview of various mathematical notation
 - **Real Numbers (ℝ)**: The set of all rational and irrational numbers. Example: ℝ = {x | x is a point on the number line}
 - **Complex Numbers (ℂ)**: The set of numbers that can be expressed in the form a + bi, where a and b are real numbers and $i$
   is the imaginary unit. Example: ℂ = {a + bi | a, b ∈ ℝ}
+- Cardinal Numbers (|A|): A measure of the "number of elements" in a set A. Example: If A = {1, 2, 3}, then |A| = 3.
+
+### Numbers Discussion
+
+- |ℕ| = ∞ (The set of natural numbers is infinite)
+- |ℤ| = ∞ (The set of integers is infinite)
+- Is |ℚ| = |ℝ|? (No, the set of real numbers is uncountably infinite, while the set of rational numbers is countably infinite)
+- Is |ℝ| = |ℂ|? (Yes, both sets have the same cardinality, which is uncountably infinite)
 
 ## Set Notations
 
@@ -23,6 +31,8 @@ This document provides a comprehensive overview of various mathematical notation
 - **Intersection (∩)**: The set containing only elements that are in both sets. Example: A ∩ B = {x | x ∈ A and x ∈ B}
 - **Set Difference (\\)**: The set containing elements that are in one set but not in another. Example: A \\ B = {x | x ∈ A and x ∉ B}
 - **Empty Set (∅)**: The set that contains no elements. Example: ∅ = {}
+- Countable Set: A set that can be put into a one-to-one correspondence with the natural numbers. Example: The set of integers ℤ is countable.
+- Uncountable Set: A set that cannot be put into a one-to-one correspondence with the natural numbers. Example: The set of real numbers ℝ is uncountable.
 
 ### Set Notations Examples
 
